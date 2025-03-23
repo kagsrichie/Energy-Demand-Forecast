@@ -109,6 +109,7 @@ print(forecast)
 ```
 
 ### Sample Forecast Output
+![Forecast Evaluation](Images/forecast_evaluation.png)
 
 Here's an example of the forecasting output:
 
@@ -134,6 +135,7 @@ The interactive dashboard will launch and be available at [http://127.0.0.1:8050
 
 ![Dashboard Screenshot](Images/Dashboard.png)
 
+
 The dashboard provides:
 - Real-time visualization of demand forecasts
 - Interactive controls to adjust forecast horizon
@@ -142,6 +144,13 @@ The dashboard provides:
 - Daily peak demand predictions
 
 This user interface makes complex forecasting data accessible to grid operators, energy traders, and management teams without requiring technical expertise.
+
+
+
+Two day forecast result
+![Two days forecast](Images/load_forecast.png)
+
+
 
 
 
