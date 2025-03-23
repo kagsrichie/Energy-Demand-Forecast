@@ -132,7 +132,7 @@ python test_dashboard.py
 
 The interactive dashboard will launch and be available at [http://127.0.0.1:8050/](http://127.0.0.1:8050/) in your web browser.
 
-![Dashboard Screenshot](Images/dashboard_screenshot.png)
+![Dashboard Screenshot](Images/Dashboard.png)
 
 The dashboard provides:
 - Real-time visualization of demand forecasts
@@ -143,30 +143,7 @@ The dashboard provides:
 
 This user interface makes complex forecasting data accessible to grid operators, energy traders, and management teams without requiring technical expertise.
 
-## 📁 Project Structure
 
-```
-Energy-Demand-Forecast/
-│
-├── AI_energy_forecaster.py   # Core implementation file
-├── test_dashboard.py         # Interactive dashboard
-├── Data/                     # Directory for cached data and saved models
-│   ├── pjm_*.csv             # Electricity load data
-│   ├── weather_*.csv         # Weather data
-│   └── models/               # Trained models
-│
-├── Images/                   # Visualization outputs and documentation images
-├── requirements.txt          # Python dependencies
-└── README.md                 # Project documentation
-```
-
-## 🔮 Future Enhancements
-
-- Implementation of deep learning models (LSTM, Transformer architectures)
-- Integration with real-time grid operational data
-- Anomaly detection for unusual consumption patterns
-- Geographic expansion to support multiple regional grids
-- Incorporating additional data sources (events, industrial schedules)
 
 ## 🧮 Feature Importance Analysis
 
@@ -197,11 +174,8 @@ This project builds upon advanced concepts in energy forecasting research, inclu
 
 ## 👤 Author
 
-- **Your Name** - [Your GitHub Profile](https://github.com/your-username)
+- **Your Name** - [Your GitHub Profile](https://github.com/kagsrichie)
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgments
 
